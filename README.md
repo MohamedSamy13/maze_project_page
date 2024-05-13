@@ -1,5 +1,5 @@
 # The Maze Project
-* **_This is a landing page for the [Maze Project](https://github.com/MohamedSamy13/maze_project). View via ➡️ [Link](https://github.com/MohamedSamy13)_**
+* **_This is a landing page for the [Maze Project](https://github.com/MohamedSamy13/maze_project). View via ➡️ [Link](https://github.com/MohamedSamy13/maze_project_page)_**
 
 
 ## Author ✍️ :black_nib:
